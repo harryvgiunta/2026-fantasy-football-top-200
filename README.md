@@ -2,6 +2,10 @@
 
 **Current through September 5, 2026.**
 
+## New: late-round value and risk analysis
+
+**[Open the September 5 late-round targets, NFL Daily transcript synthesis, and high-risk fades](late-round-value-analysis.md).**
+
 ## Format assumption
 
 This is for a **12-team, one-QB, half-PPR redraft league**, four-point passing touchdowns, one regular flex, snake draft. It ranks individual **QB/RB/WR/TE players**; D/ST and kickers are addressed separately.
